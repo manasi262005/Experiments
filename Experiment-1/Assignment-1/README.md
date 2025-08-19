@@ -77,7 +77,6 @@ The main goal is to explore healthcare trends and provide insights using **Pytho
 ## 📌 How to Run
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/YourUsername/healthcare-project.git
-   cd healthcare-project
+   git clone https://github.com/manasi262005/Experiments.git
 
 **Author:** Manasi Jitendra Patil  
