@@ -44,7 +44,7 @@ The main goal is to explore healthcare trends and provide insights using **Pytho
 
 ## 📊 Key Visualizations
 
-- **Admissions Over Time** ![Admissions Over Time](figures/admissions_over_time.png)  
+- **Admissions Over Time** ![Admissions Over Time](outputs/figures/admissions_over_time.png)  
 - **Age Group Distribution** ![Age Group Distribution](figures/age_group_distribution.png)  
 - **Top 10 Medical Conditions** ![Top 10 Medical Conditions](figures/top10_medical_conditions.png)  
 
